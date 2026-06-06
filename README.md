@@ -8,7 +8,7 @@ The project uses the **GO Evolutionary Dimensions Framework (GEDF)** to analyze 
 
 ```text
 figures/
-└── chord-plots/
+└── GEDF-chord-plots/
     ├── chord_automation_degree.png
     ├── chord_functional_sophistication.png
     ├── chord_quality_control_and_validation.png
@@ -17,7 +17,7 @@ figures/
 
 ## Chord Plots
 
-The `figures/chord-plots/` folder contains four chord plots corresponding to the major GEDF dimensions:
+The `figures/GEDF-chord-plots/` folder contains four chord plots corresponding to the major GEDF dimensions:
 
 1. **Functional sophistication**
 2. **Automation degree**
@@ -30,7 +30,7 @@ These visualizations illustrate relationships among GO-related research categori
 
 The chord plots are available at:
 
-https://github.com/qiaoyiliu/go-evolutionary-dimensions/tree/main/figures/chord-plots
+https://github.com/qiaoyiliu/go-evolutionary-dimensions/tree/main/figures/GEDF-chord-plots
 
 ## Citation
 
